@@ -1,0 +1,10 @@
+[package]
+name = "thread-init"
+version = "0.1.0"
+authors = ["Alan Jeffrey <ajeffrey@mozilla.com>"]
+edition = "2018"
+
+[lib]
+path = "lib.rs"
+
+[dependencies]
